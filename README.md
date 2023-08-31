@@ -30,4 +30,4 @@ This project is licensed under the [MIT License](LICENSE), allowing you to adapt
 For inquiries, suggestions, or collaborations, please contact [Your Name](mailto:tziamah1@gmail.com).
 
 ## Dataset
-The dataset for this project can be accessed at [Link to dataset](https://drive.google.com/drive/folders/0B8ef3Mr3d6wvfnZ1bmxTUE1tLWNDQlc0SHNyY2M1cm9KUHg5ejJ1NHlzMGRuTlNVNE9nQU0?resourcekey=0-BrKhzraJDQs2vCl5NYEEyw&usp=sharing)
+The dataset for this project can be accessed at [Link to dataset](https://drive.google.com/file/d/1Hq8Ggu0uvvFt9HXF28KNSyIMLymVecZP/view?usp=drive_link)
