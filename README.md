@@ -27,7 +27,7 @@ This project is licensed under the [MIT License](LICENSE), allowing you to adapt
 
 ## Contact
 
-For inquiries, suggestions, or collaborations, please contact [Your Name](mailto:tziamah1@gmail.com).
+For inquiries, suggestions, or collaborations, please contact [Bless Ziamah](mailto:tziamah1@gmail.com).
 
 ## Dataset
 The dataset for this project can be accessed at [Link to dataset](https://drive.google.com/file/d/1Hq8Ggu0uvvFt9HXF28KNSyIMLymVecZP/view?usp=drive_link)
